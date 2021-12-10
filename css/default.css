@@ -1,0 +1,20 @@
+.cor-fundo {
+    /*background-image: gradient(#6f42c1, #6610f2); /* cor de fundo */
+    background-image: linear-gradient(to bottom right, #6f42c1, #c99ec5, #b688ff);
+}
+
+.cor-fonte {
+    color: #6f42c1; /* cor de fonte */
+}
+
+a {
+    color: #6f42c1;
+}
+
+a:hover {
+    color: #f03d9f;
+}
+
+.social-icon:hover {
+    background-color: #f03d9f !important; /* troca cor ao passar o mouse por cima */
+}
