@@ -14,6 +14,9 @@ a {
 a:hover {
     color: #f03d9f;
 }
+.btn-enviar {
+    color:#6f42c1;
+}
 
 .social-icon:hover {
     background-color: #f03d9f !important; /* troca cor ao passar o mouse por cima */
